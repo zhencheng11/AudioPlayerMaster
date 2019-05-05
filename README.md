@@ -47,7 +47,7 @@
 ### 3、设置采样率
 
      private static synchronized native final void setRate(int track, float rate);
-通过`setRate（）`方法，rate的取值范围[-50-100]，可以设置采样频率也就是音律，改变播放速度的同时也改变了音调，所以它是`变速又变调`的。
+通过`setRate（）`方法，rate的取值范围[-50-100]，可以设置采样频率，它改变播放速度的同时也改变了音调，所以它是`变速又变调`的。
 ## 三、状态栏显示播放器
 通过Notification将播放状态显示在状态栏，需要注意的是系统适配问题
  //Android 8.0以后
