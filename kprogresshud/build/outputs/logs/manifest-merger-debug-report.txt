@@ -1,0 +1,43 @@
+-- Merging decision tree log ---
+manifest
+ADDED from F:\youzhangTv\LeftScreen_Android\trunk\AudioPlayMaster\kprogresshud\src\main\AndroidManifest.xml:1:1-7:12
+INJECTED from F:\youzhangTv\LeftScreen_Android\trunk\AudioPlayMaster\kprogresshud\src\main\AndroidManifest.xml:1:1-7:12
+INJECTED from F:\youzhangTv\LeftScreen_Android\trunk\AudioPlayMaster\kprogresshud\src\main\AndroidManifest.xml:1:1-7:12
+INJECTED from F:\youzhangTv\LeftScreen_Android\trunk\AudioPlayMaster\kprogresshud\src\main\AndroidManifest.xml:1:1-7:12
+INJECTED from F:\youzhangTv\LeftScreen_Android\trunk\AudioPlayMaster\kprogresshud\src\main\AndroidManifest.xml:1:1-7:12
+INJECTED from F:\youzhangTv\LeftScreen_Android\trunk\AudioPlayMaster\kprogresshud\src\main\AndroidManifest.xml:1:1-7:12
+INJECTED from F:\youzhangTv\LeftScreen_Android\trunk\AudioPlayMaster\kprogresshud\src\main\AndroidManifest.xml:1:1-7:12
+	package
+		ADDED from F:\youzhangTv\LeftScreen_Android\trunk\AudioPlayMaster\kprogresshud\src\main\AndroidManifest.xml:1:11-44
+		INJECTED from F:\youzhangTv\LeftScreen_Android\trunk\AudioPlayMaster\kprogresshud\src\main\AndroidManifest.xml
+		INJECTED from F:\youzhangTv\LeftScreen_Android\trunk\AudioPlayMaster\kprogresshud\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from F:\youzhangTv\LeftScreen_Android\trunk\AudioPlayMaster\kprogresshud\src\main\AndroidManifest.xml
+		ADDED from F:\youzhangTv\LeftScreen_Android\trunk\AudioPlayMaster\kprogresshud\src\main\AndroidManifest.xml:1:1-7:12
+		INJECTED from F:\youzhangTv\LeftScreen_Android\trunk\AudioPlayMaster\kprogresshud\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from F:\youzhangTv\LeftScreen_Android\trunk\AudioPlayMaster\kprogresshud\src\main\AndroidManifest.xml
+		ADDED from F:\youzhangTv\LeftScreen_Android\trunk\AudioPlayMaster\kprogresshud\src\main\AndroidManifest.xml:1:1-7:12
+		INJECTED from F:\youzhangTv\LeftScreen_Android\trunk\AudioPlayMaster\kprogresshud\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from F:\youzhangTv\LeftScreen_Android\trunk\AudioPlayMaster\kprogresshud\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from F:\youzhangTv\LeftScreen_Android\trunk\AudioPlayMaster\kprogresshud\src\main\AndroidManifest.xml:4:5-6:38
+	android:supportsRtl
+		ADDED from F:\youzhangTv\LeftScreen_Android\trunk\AudioPlayMaster\kprogresshud\src\main\AndroidManifest.xml:6:9-35
+	android:allowBackup
+		ADDED from F:\youzhangTv\LeftScreen_Android\trunk\AudioPlayMaster\kprogresshud\src\main\AndroidManifest.xml:5:9-35
+uses-sdk
+INJECTED from F:\youzhangTv\LeftScreen_Android\trunk\AudioPlayMaster\kprogresshud\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from F:\youzhangTv\LeftScreen_Android\trunk\AudioPlayMaster\kprogresshud\src\main\AndroidManifest.xml
+INJECTED from F:\youzhangTv\LeftScreen_Android\trunk\AudioPlayMaster\kprogresshud\src\main\AndroidManifest.xml
+INJECTED from F:\youzhangTv\LeftScreen_Android\trunk\AudioPlayMaster\kprogresshud\src\main\AndroidManifest.xml
+INJECTED from F:\youzhangTv\LeftScreen_Android\trunk\AudioPlayMaster\kprogresshud\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from F:\youzhangTv\LeftScreen_Android\trunk\AudioPlayMaster\kprogresshud\src\main\AndroidManifest.xml
+		ADDED from F:\youzhangTv\LeftScreen_Android\trunk\AudioPlayMaster\kprogresshud\src\main\AndroidManifest.xml
+		INJECTED from F:\youzhangTv\LeftScreen_Android\trunk\AudioPlayMaster\kprogresshud\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from F:\youzhangTv\LeftScreen_Android\trunk\AudioPlayMaster\kprogresshud\src\main\AndroidManifest.xml
+		ADDED from F:\youzhangTv\LeftScreen_Android\trunk\AudioPlayMaster\kprogresshud\src\main\AndroidManifest.xml
+		INJECTED from F:\youzhangTv\LeftScreen_Android\trunk\AudioPlayMaster\kprogresshud\src\main\AndroidManifest.xml

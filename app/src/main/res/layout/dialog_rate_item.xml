@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white"
+    android:orientation="vertical">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:paddingTop="@dimen/afc_20dp"
+        android:paddingBottom="@dimen/afc_20dp"
+        android:text="音速音律调节"
+        android:textColor="@color/color_33"
+        android:textSize="@dimen/afc_16sp" />
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/afc_1dp"
+        android:background="@color/eee" />
+
+    <TextView
+        android:id="@+id/pitch_show"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:paddingTop="@dimen/afc_20dp"
+        android:text="音速音律调: 0" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_vertical"
+        android:layout_marginTop="@dimen/afc_20dp"
+        android:layout_marginBottom="@dimen/afc_20dp"
+        android:orientation="horizontal">
+
+        <SeekBar
+            android:id="@+id/rate_seek"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:max="150"
+            android:progress="50" />
+
+    </LinearLayout>
+
+    <TextView
+        android:id="@+id/cancel_action"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_centerInParent="true"
+        android:background="@color/fbfbfb"
+        android:gravity="center"
+        android:paddingTop="18dp"
+        android:paddingBottom="18dp"
+        android:text="关闭"
+        android:textColor="@color/colo_6666"
+        android:textSize="14sp" />
+</LinearLayout>
