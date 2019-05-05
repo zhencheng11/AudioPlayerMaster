@@ -1,6 +1,6 @@
 # AudioPlayerMaster
-Android音乐播放器【支持：速率调节，音调调节，采样率调节】
-这是一个音乐播放器，支持：速率调节，音调调节，采样率，这三个功能基于soundTouch开源项目，解决了Android 6.0之前不能调节播放速率的问题。项目地址：
+这是一个Android音乐播放器【支持：速率调节，音调调节，采样率调节】
+这是一个音乐播放器，支持：速率调节，音调调节，采样率，这三个功能基于soundTouch开源项目，解决了Android 6.0之前不能调节播放速率的问题。
 由于公司项目需要做一个倍速播放的音乐播放器，我们知道，使用Android 自带的MediaPlayer的在Android 6.0之前的是不支持倍速播放的，我看过很多关于音频播放的开源项目，找到[soundTouch](http://www.surina.net/soundtouch/)能够改变音频播放速度，但是没有一个完整的能封装成播放器的。于是，我结合AudioTrack+MediaExtractor+MediaCodec+[SoundTouch](http://www.surina.net/soundtouch/)封装成一个音乐播放器。因为之前都是用Android 自带的MediaPlayer进行播放，使用这些新技术我花了很多的时间去了解他们的使用。
 先看项目截图：UI有点粗糙，见谅。
 <div>
